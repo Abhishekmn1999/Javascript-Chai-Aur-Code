@@ -1,3 +1,5 @@
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 const accountId = 12345
 let accountName = "Abhi"
  accountCity = "Belagavi"

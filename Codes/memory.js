@@ -3,7 +3,8 @@ let userOne={
     upi:"user@ybl"
 }
 
-let usertwo = userOne
+let usertwo = userOne;
+
 
 usertwo.email="usertwo@gmail.com";
 
