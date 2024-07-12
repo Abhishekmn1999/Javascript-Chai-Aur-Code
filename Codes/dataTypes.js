@@ -1,4 +1,4 @@
-// premitive Data Types
+// Premitive Data Types
 
 // Int 
 // BigInt
