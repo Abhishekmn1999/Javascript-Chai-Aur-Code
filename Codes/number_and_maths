@@ -14,7 +14,7 @@ const number2 = 100245832
 console.log(number2.toLocaleString('en-IN'));
 
 
-// +++++++++++++++++++++++++++ Maths +++++++++++++++++++++++
+// +++++++++++++++++++++++++++ Maths +++++++++++++++++++++++//
 console.log(Math);
 console.log(Math.abs(-5));
 console.log(Math.round(4.6));
